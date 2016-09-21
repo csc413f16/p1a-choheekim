@@ -1,8 +1,8 @@
-Name:
+Name:i Chohee Kim
 
-Compilation and Run Successful:
+Compilation and Run Successfuli: Compile and run succssfully.
 
-Unit Test Run Successfully:
+Unit Test Run Successfully: Passed all tests
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
